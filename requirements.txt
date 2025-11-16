@@ -1,0 +1,15 @@
+streamlit
+python-dotenv
+PyPDF2
+sentence-transformers
+transformers
+huggingface_hub
+torch
+torchvision
+faiss-cpu
+numpy
+scikit-learn
+fastapi
+uvicorn
+pydantic
+groq
